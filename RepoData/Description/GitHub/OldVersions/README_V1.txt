@@ -1,0 +1,1 @@
+🍏️💾️📱️🧮️📖️ The official documentation source repository for the Calculator application included with the wOS subsystem of WacOS, an open-source alternative to the iOS Calculator application. Part of the WacOS operating system project
